@@ -1,4 +1,4 @@
-将特斯拉的复杂业务帝国拆解为四个核心板块：**① 电动汽车（Automotive）**、**② 能源（Energy Generation and Storage）**、**③ 自动驾驶与软件服务（Autonomous Driving & Software）**以及 **④ 未来期权（Future Ventures: Optimus, Dojo & Others）**。
+将特斯拉的复杂业务帝国拆解为四个核心板块：**① 电动汽车（Automotive）**、**② 能源（Energy Generation and Storage）**、**③ 自动驾驶与软件服务（Autonomous Driving Software）**以及 **④ 未来期权（Future Ventures: Optimus, Dojo & Others）**。
 
 我们对江阴电工合金的评级为** 减持 **，未来12个月目标价为**14.00元**。
 
